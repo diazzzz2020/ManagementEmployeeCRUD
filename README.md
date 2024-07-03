@@ -28,21 +28,10 @@ A Spring MVC web application for Employee Information Management with the follow
 
 
 
-## 3. Installing:
-
-i. Clone the git repo
-
-```
-https://github.com/AAdewunmi/SpringBoot-Employee-Management-System.git
-```
-
-ii. Open project folder
-
-iii. Explore
 
 
 
-## 4. How To Use:
+## 3. How To Use:
 
 i. Create Database -> demo
 
