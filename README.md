@@ -60,25 +60,3 @@ vii. Add, Update and Delete records from web app
 
 Have fun
 
-😎 
-
-
-
-## 5. Demo:
-
-### - All Employee UI
-
-![This is an image](src/main/java/images/main_creenshot.png)
-
-### - Add Employee UI
-
-![This is an image](src/main/java/images/add_creenshot.png)
-
-### - Update UI
-
-![This is an image](src/main/java/images/update_creenshot.png)
-
-
-
-Date: 1 June, 2020
-
